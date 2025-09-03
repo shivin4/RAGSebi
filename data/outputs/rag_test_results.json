@@ -1,0 +1,104 @@
+{
+  "test_results": [
+    {
+      "question": "What are SEBI's main functions and objectives?",
+      "category": "general",
+      "answer": "According to the provided SEBI document context, specifically the Annual Report of the Securities and Exchange Board of India (SEBI) for 2010-11 and 2012-13, SEBI's main functions and objectives are:\n\n1. **Protection of the interests of investors in securities**: SEBI aims to safeguard the interests of investors in the securities market.\n2. **Promotion of the development of the securities market**: SEBI works to promote the growth and development of the securities market in India.\n3. **Regulation of the securities market**: SEBI regulates the securities market to ensure fair and transparent practices.\n\nThese objectives are achieved through proactive supervision and policy measures, as stated in the SEBI Annual Report for 2012-13. The report also mentions that SEBI's decisions and orders are made available on its website for transparency and wider dissemination.\n\nAs mentioned in the SEBI Annual Report for 2010-11, these objectives are enshrined in the following Acts:\n\n* The Securities and Exchange Board of India Act, 1992\n* The Securities Contracts (Regulation) Act, 1956\n* The Depositories Act, 1996\n* The relevant provisions of the Companies Act, 1956\n\nIt is worth noting that the provided context does not contain information on any recent changes to SEBI's main functions and objectives. However, based on the available documents, it can be concluded that SEBI's primary objectives remain the protection of investor interests, promotion of the securities market, and regulation of the securities market.",
+      "sources_count": 6,
+      "response_time": 1.1394753456115723,
+      "expected_topics": [
+        "investor protection",
+        "market regulation",
+        "development"
+      ],
+      "topics_found": [
+        "development"
+      ],
+      "quality_score": 73.33333333333333,
+      "success": true
+    },
+    {
+      "question": "What are the disclosure requirements for IPOs?",
+      "category": "primary_market",
+      "answer": "Based on the provided SEBI document context, the disclosure requirements for IPOs are as follows:\n\n1. **Elimination of repetitive disclosures**: Companies with satisfactory track records are exempt from making repetitive disclosures (Document Structure: 3. Disclosure Requirements).\n2. **Disclosure of issue price**: Companies can fix and disclose the issue price prior to the record date (Document Structure: 5. Issue Price Disclosure).\n3. **Disclosure in the draft offer document**: Companies must make full disclosures regarding the total capital to be raised from further issues in the draft offer document (Context from SEBI documents).\n4. **Disclosure of financials**: The disclosure of financials has been reduced to the latest three years on a consolidated basis, and the standalone financials of the issuer company and the financials of the subsidiaries must be disclosed on the website of the issuer company (Key policy changes: m).\n5. **Disclosure of shareholding pattern**: The format of the shareholding pattern to be filed quarterly by listed entities with the stock exchanges has been amended to include 19 new categories and 3 new sub-categories to capture more granular details of public shareholding (Context from SEBI documents).\n6. **Disclosure of foreign ownership limits**: Listed entities must disclose a statement showing foreign ownership limits approved by the board of directors/shareholders and the limits utilized (Context from SEBI documents).\n7. **Continuous disclosure requirements**: Listed entities must disclose events that have a material impact on the company, and the regulations provide criteria for determining materiality (SEBI Annual Report 2015-2016).\n8. **Disclosure of material developments**: Material developments with reference to an event must be disclosed till the event is resolved/closed (SEBI Annual Report 2015-2016).\n\nPlease note that these requirements may be subject to change, and it is essential to refer to the latest SEBI documents and regulations for the most up-to-date information.",
+      "sources_count": 6,
+      "response_time": 1.4900014400482178,
+      "expected_topics": [
+        "IPO",
+        "disclosure",
+        "public offer"
+      ],
+      "topics_found": [
+        "IPO",
+        "disclosure"
+      ],
+      "quality_score": 86.66666666666666,
+      "success": true
+    },
+    {
+      "question": "How does SEBI regulate mutual funds?",
+      "category": "mutual_funds",
+      "answer": "SEBI regulates mutual funds through various measures, as outlined in the provided context. Some of the key regulatory changes and initiatives include:\n\n1. **Amendments to SEBI (Mutual Funds) Regulations**: SEBI introduced Regulation 49-OA, which allows mutual funds to raise money through private placement for infrastructure debt fund schemes, subject to certain conditions (SEBI document, no specific year mentioned).\n2. **Minimum Subscription Amount**: SEBI has mandated a minimum subscription amount of at least ₹20 crore for debt-oriented and balanced schemes, and ₹10 crore for other schemes, at the time of new fund offer (SEBI document, no specific year mentioned).\n3. **Average AUM Requirements**: Open-ended debt-oriented schemes are required to maintain a minimum average AUM of ₹20 crore on a half-yearly rolling basis (SEBI document, no specific year mentioned).\n4. **Stewardship Code**: SEBI has prescribed a Stewardship Code for all mutual funds and Alternative Investment Funds (AIFs) to disclose their voting policies and actual voting on different resolutions of investee companies (SEBI document, no specific year mentioned, but mentioned as a subsequent proposal after 2014-15).\n5. **Risk Management Framework**: SEBI has focused on improving the risk management framework and protecting the interests of investors, as mentioned in the context for FY 2022.\n6. **Advisory Committee on Mutual Funds (MFAC)**: SEBI has an advisory committee that provides a platform for interaction and deliberations on issues related to the mutual fund industry, as mentioned in the SEBI Annual Report 2016-17.\n\nThese regulations and initiatives demonstrate SEBI's efforts to regulate mutual funds, promote transparency, and protect investor interests. However, for more detailed and up-to-date information, it is recommended to refer to the latest SEBI documents, such as the SEBI Annual Report or Master Circulars, which may provide more specific and recent information on mutual fund regulations.",
+      "sources_count": 6,
+      "response_time": 1.2181499004364014,
+      "expected_topics": [
+        "mutual fund",
+        "AMC",
+        "regulations"
+      ],
+      "topics_found": [
+        "mutual fund",
+        "regulations"
+      ],
+      "quality_score": 86.66666666666666,
+      "success": true
+    },
+    {
+      "question": "What are the compliance requirements for stock brokers?",
+      "category": "intermediaries",
+      "answer": "The compliance requirements for stock brokers, as outlined in the provided SEBI document context, include:\n\n1. **Anti-Money Laundering (AML) and Know Your Customer (KYC) norms**: Stock brokers are required to comply with AML and KYC norms, including client due diligence.\n2. **Handling of funds and securities of clients**: Stock brokers must ensure timely settlement of accounts of clients and segregation of clients' and proprietary funds/securities.\n3. **Investor redressal mechanism**: Stock brokers are required to have an effective investor redressal mechanism in place.\n4. **Clearing operations**: Stock brokers must comply with regulations related to clearing operations.\n5. **Internal audits**: Stock brokers are required to undergo half-yearly internal audits by independent professionals to verify compliance with regulatory requirements, including AML/CFT norms.\n\nThese requirements are verified by SEBI through inspections, which may be specific-purpose, single-theme inspections or comprehensive inspections. In 2015-16, SEBI carried out 176 inspections of stock brokers and sub-brokers, focusing on these compliance requirements.\n\nAdditionally, stock exchanges are empowered to impose monetary penalties on stock brokers for violations or non-compliances based on findings of their inspections, as per their bye-laws.\n\nIt is worth noting that the provided context does not contain information on recent changes to compliance requirements for stock brokers. For the most recent and up-to-date information, it is recommended to refer to the latest SEBI circulars, guidelines, or annual reports.",
+      "sources_count": 6,
+      "response_time": 1.0389471054077148,
+      "expected_topics": [
+        "stock broker",
+        "compliance",
+        "registration"
+      ],
+      "topics_found": [
+        "stock broker",
+        "compliance"
+      ],
+      "quality_score": 86.66666666666666,
+      "success": true
+    },
+    {
+      "question": "What are SEBI's policies on foreign investment?",
+      "category": "foreign_investment",
+      "answer": "SEBI's policies on foreign investment are primarily focused on regulating foreign investment made through the foreign portfolio investors route, the foreign venture capital investors route, and the AIF route with foreign investors as contributors to the pool. As mentioned in the provided context, SEBI is working on measures to harmonize the regulatory framework across these routes to achieve consistent, comprehensive, and focused risk-based identification of investors.\n\nAccording to the SEBI Annual Report 2016-17, SEBI has initiated policies and programmes to protect investors' interests, promote the development of the securities market, and regulate the securities market. The policies and programmes are categorized under eight major heads, including Foreign Portfolio Investors.\n\nSpecifically, the SEBI (Foreign Portfolio Investors) Regulations, 2014, were framed to implement the recommendations of the Committee on Rationalization of Investment Routes and Monitoring of Foreign Portfolio Investments. These regulations commenced on June 1, 2014.\n\nSEBI has also undertaken major policies to improve the ease of access and investment climate for Foreign Portfolio Investors (FPIs) over the years. However, the context does not provide detailed information on the recent changes to these policies. For the most recent and detailed information, it is recommended to refer to the latest SEBI Annual Report or other regulatory documents, such as Master Circulars or FAQs, which are not provided in the given context.",
+      "sources_count": 6,
+      "response_time": 0.9877293109893799,
+      "expected_topics": [
+        "FPI",
+        "foreign",
+        "investment"
+      ],
+      "topics_found": [
+        "FPI",
+        "foreign",
+        "investment"
+      ],
+      "quality_score": 100.0,
+      "success": true
+    }
+  ],
+  "analysis": {
+    "total_tests": 5,
+    "successful_tests": 5,
+    "failed_tests": 0,
+    "success_rate": 100.0,
+    "average_quality_score": 86.66666666666666,
+    "average_response_time": 1.1748606204986571,
+    "average_sources_per_query": 6.0
+  },
+  "timestamp": 1756712587.4677594
+}

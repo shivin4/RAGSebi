@@ -1,0 +1,83 @@
+{
+  "total_chunks": 54592,
+  "word_count_stats": {
+    "mean": 115.36763628370457,
+    "median": 63.0,
+    "min": 1,
+    "max": 400,
+    "std_dev": 124.31920636769838
+  },
+  "char_count_stats": {
+    "mean": 732.8345361957796,
+    "median": 407.0,
+    "min": 2,
+    "max": 5456
+  },
+  "document_type_distribution": {
+    "annual_reports": 14160,
+    "faqs": 1955,
+    "master_circulars": 38477
+  },
+  "chunk_size_distribution": {
+    "very_small": 23374,
+    "small": 20120,
+    "medium": 6030,
+    "large": 5068
+  },
+  "sample_chunks": [
+    {
+      "doc_type": "annual_reports",
+      "chunk_id": "sebi_annual_reports\\pdfs\\Annual_Report_2000-2001\\ar-cont_p.pdf_001",
+      "word_count": 3,
+      "text_preview": "# ANNUAL REPORT"
+    },
+    {
+      "doc_type": "annual_reports",
+      "chunk_id": "sebi_annual_reports\\pdfs\\Annual_Report_2015-16\\1471609638850.pdf_113",
+      "word_count": 55,
+      "text_preview": "2015 (1.4 percent in 2014), the lowest since the global financial crisis. Lower oil and commodity prices exerted downward pressure on inflation in many EMEs, though inflation rose in some countries like Brazil and Russia due to sizable currency depreciations. On average, inflation hovered at 4.7 per..."
+    },
+    {
+      "doc_type": "annual_reports",
+      "chunk_id": "sebi_annual_reports\\pdfs\\Annual_Report_2020-21\\1628155029459.pdf_552",
+      "word_count": 304,
+      "text_preview": "The Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulations, 2012 (SECC Regulations) and the SEBI (Depositories and Participants) Regulations, 2018 (D and P Regulations) and various circulars issued thereunder, prescribe the norms for ownership and governance at sto..."
+    },
+    {
+      "doc_type": "faqs",
+      "chunk_id": "sebi_faqs\\pdfs\\Buyback_of_Securities\\1745562493117.pdf_001",
+      "word_count": 91,
+      "text_preview": "# FREQUENTLY ASKED QUESTIONS ON SEBI (BUY-BACK OF SECURITIES) REGULATIONS, 2018\nThese FAQs offer only a simplistic explanation/clarification of terms/concepts related to the SEBI (Buy-back of Securities) Regulations, 2018 [“Buyback Regulations”]. Any such explanation/clarification that is provided h..."
+    },
+    {
+      "doc_type": "faqs",
+      "chunk_id": "sebi_faqs\\pdfs\\General\\1730960998220.pdf_015",
+      "word_count": 110,
+      "text_preview": "Up to 7 years, such amounts have to be maintained in a separate bank account by the company. You may like to contact the company(s) in this regard.\nAfter 7 years, the companies are required to transfer this amount to the Investor Education and Protection Fund (IEPF) of the Ministry of Corporate Affa..."
+    },
+    {
+      "doc_type": "faqs",
+      "chunk_id": "sebi_faqs\\pdfs\\Merchant_Bankers\\1678853311186.pdf_023",
+      "word_count": 400,
+      "text_preview": "SI Portal as part of the application. Further, physical submission of all such documents and Form A (all documents signed and bearing stamp of the Applicant) is also required. **17.2.** Additional documents / clarifications may be sought from the applicant, preferably within 5 working days of receip..."
+    },
+    {
+      "doc_type": "master_circulars",
+      "chunk_id": "sebi_mastercirculars\\pdfs\\AML_CFT-_Master_Circular\\1295933371907.pdf_001",
+      "word_count": 400,
+      "text_preview": "**OFFICER ON SPECIAL DUTY** **INTEGRATED SURVEILLANCE DEPARTMENT** **EMAIL – ramanns@sebi.gov.in** **Tel : 022 26449450** **Fax : 022 2644902** **CIR/ISD/AML/3/2010** **December 31, 2010** To all Intermediaries registered with SEBI under Section 12 of the SEBI Act. (Through the stock exchanges for s..."
+    },
+    {
+      "doc_type": "master_circulars",
+      "chunk_id": "sebi_mastercirculars\\pdfs\\Master_Circular_for_ESG_Rating_Providers_(ERPs)\\1689164906428.pdf_068",
+      "word_count": 38,
+      "text_preview": "It is essential that the ESG rating rationale be articulated in detail to enable a stakeholder to assess the reasons behind an assigned ESG rating. This is further necessitated by the oft-occurring divergence in ESG ratings across providers."
+    },
+    {
+      "doc_type": "master_circulars",
+      "chunk_id": "sebi_mastercirculars\\pdfs\\Master_Circular_for_Registrars_to_an_Issue_and_Share_Transfer_Agents\\1684323597553.pdf_300",
+      "word_count": 8,
+      "text_preview": "- (a) Hardware Configuration\n- (b) Software Environment"
+    }
+  ]
+}

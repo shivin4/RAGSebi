@@ -1,0 +1,21 @@
+{
+  "cleaning_summary": {
+    "original_records": 222,
+    "cleaned_records": 148,
+    "records_removed": 74,
+    "removal_rate": 33.33333333333333
+  },
+  "text_statistics": {
+    "original_total_chars": 45410444,
+    "cleaned_total_chars": 681621,
+    "average_text_length_original": 204551.54954954956,
+    "average_text_length_cleaned": 4605.5472972972975
+  },
+  "quality_metrics": {
+    "high_quality_docs": 122,
+    "medium_quality_docs": 22,
+    "low_quality_docs": 4
+  },
+  "processed_at": "2025-09-01T10:54:31.549097",
+  "output_file": "outputs/sebi_texts_cleaned_final.jsonl"
+}

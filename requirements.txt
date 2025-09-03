@@ -1,0 +1,20 @@
+requests>=2.32.0
+beautifulsoup4>=4.12.3
+trafilatura>=1.9.0
+pdfminer.six>=20240706
+tqdm>=4.66.5
+urllib3>=2.2.2
+llama-parse>=0.5.0
+python-dotenv>=1.0.0
+
+# RAG Pipeline Dependencies (Open Source)
+langchain>=0.1.0
+langchain-community>=0.0.20
+langchain-groq>=0.1.0
+chromadb>=0.4.0
+sentence-transformers>=2.2.0
+numpy>=1.24.0
+groq>=0.4.0
+transformers>=4.30.0
+torch>=2.0.0
+faiss-cpu>=1.7.4

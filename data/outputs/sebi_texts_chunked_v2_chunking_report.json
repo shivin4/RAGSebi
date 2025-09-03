@@ -1,0 +1,43 @@
+{
+  "chunking_summary": {
+    "original_documents": 222,
+    "total_chunks_created": 28426,
+    "average_chunks_per_document": 128.04504504504504,
+    "chunk_parameters": {
+      "target_chunk_size_words": 350,
+      "overlap_words": 50
+    }
+  },
+  "chunk_statistics": {
+    "average_chunk_word_count": 238.70949131077182,
+    "min_chunk_word_count": 48,
+    "max_chunk_word_count": 350,
+    "average_chunk_char_count": 1518.6324491662563,
+    "total_text_chars": 43168646
+  },
+  "document_type_breakdown": {
+    "annual_reports": {
+      "count": 25,
+      "chunks": 7737
+    },
+    "master_circulars": {
+      "count": 124,
+      "chunks": 19401
+    },
+    "faqs": {
+      "count": 73,
+      "chunks": 1288
+    },
+    "other": {
+      "count": 0,
+      "chunks": 0
+    }
+  },
+  "quality_distribution": {
+    "high_quality_chunks": 175,
+    "medium_quality_chunks": 1149,
+    "low_quality_chunks": 27102
+  },
+  "processed_at": "2025-09-03T11:15:59.312104",
+  "output_file": "outputs/sebi_texts_chunked_v2.jsonl"
+}

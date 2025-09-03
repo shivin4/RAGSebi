@@ -1,0 +1,27 @@
+{
+  "cleaning_summary": {
+    "original_records": 222,
+    "cleaned_records": 222,
+    "records_removed": 0,
+    "removal_rate": 0.0
+  },
+  "text_statistics": {
+    "original_total_chars": 45410444,
+    "cleaned_total_chars": 40540084,
+    "average_text_length_original": 204551.54954954956,
+    "average_text_length_cleaned": 182612.99099099098
+  },
+  "quality_metrics": {
+    "high_quality_docs": 31,
+    "medium_quality_docs": 66,
+    "low_quality_docs": 125
+  },
+  "document_types": {
+    "annual_reports": 25,
+    "master_circulars": 124,
+    "faqs": 73,
+    "other": 0
+  },
+  "processed_at": "2025-09-01T10:59:10.514089",
+  "output_file": "outputs/sebi_texts_cleaned_improved.jsonl"
+}
