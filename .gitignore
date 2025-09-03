@@ -138,10 +138,11 @@ logs/
 # Keep data files (processed datasets and vector DB)
 # Uncomment the following lines if you want to exclude data:
 # data/outputs/*.jsonl
-data/sebi_chroma_db/
+# data/sebi_chroma_db/
 # data/sebi_annual_reports/pdfs/
 # data/sebi_faqs/pdfs/
 # data/sebi_mastercirculars/pdfs/
+# data/sebi_chroma_db/
 
 # Node.js (if any frontend components)
 node_modules/
