@@ -16,6 +16,8 @@ The system uses:
 - **Groq API** for fast LLM inference (Llama 3.3 70B model)
 - **LangChain** framework for RAG pipeline orchestration
 
+
+
 ## 📁 Project Structure
 
 ```
@@ -106,6 +108,10 @@ Once the system is running, you can ask questions like:
 - `quit` or `exit` - Exit the chat
 
 ## 🔧 System Architecture
+
+## System Flow Diagram
+
+![Complete System Flow](complete_flow.png)
 
 ### Core Components
 
