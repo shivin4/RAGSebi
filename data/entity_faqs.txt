@@ -1,0 +1,50 @@
+Q: 1. Is it necessary for all listed companies, SEBI registered intermediaries and market infrastructure institutions (‘Entities’) to take SCORES authentication?
+A: Yes
+
+Q: 2. Is it necessary for an entity to take SCORES authentication separately for each category of intermediary registration granted to them by SEBI?
+A: Yes, an entity has to take SCORES authentication separately for each category of intermediary registration granted to them by SEBI.
+
+Q: 3. How to get SCORES Authentication?
+A: All companies intending to get their securities listed on the recognized stock exchanges shall obtain SCORES authentication through the online mechanism available at the SCORES website www.scores.gov.in.The companies shall be required to apply for the authentication through the online form available on the abovementioned SCORES website in accordance with the instruction document provided on the website.Companies shall attach a declaration, with the online form, on the letter head of the company signed by the Compliance Officer, as under:Companies intending to list on Main Board: A declaration that the Draft Red Herring Prospectus has been submitted to SEBI.Companies intending to list on SME/Debt Platform of stock exchange: A declaration that an application to list its securities has been submitted with the stock exchange/in-principal approval to list its securities has been obtained from the stock exchange.The SCORES credentials shall be sent to the e-mail ID of the Compliance Officer or the Dealing Officer as provided in the online form.The procedure for generation of SCORES user ID and password is fully automated for all SEBI registered intermediaries and MIIs registered or recognised by SEBI after August 02, 2019. SCORES user ID and password details shall be sent through auto-generated e-mails, upon completion of process of online grant of registration by SEBI.The SCORES user ID and password details shall be sent to the e-mail ID of the Contact Person or the Compliance Officer as provided in the online Registration Form (submitted through the SEBI Intermediaries Portal – https://siportal.sebi.gov.in).
+
+Q: 4. What details will the entities receive upon getting SCORES Authentication?
+A: Entities will receive user ID and password to login into SCORES on the e-mail ID registered with SEBI.
+
+Q: 5. Can the listed companies / SEBI registered intermediaries / market infrastructure institutions who have taken SCORES authentication, update their details in SCORES?
+A: Yes, the SCORES system enables the listed companies / SEBI registered intermediaries / market infrastructure institutions who have taken SCORES authentication to update on their own certain information such as address, name/details of the compliance officer, telephone numbers. Such information should be updated by the entities immediately when warranted. However, Company name, State and Primary e-mail address cannot be updated by the entities themselves. To update these fields, the entities may send an e-mail to scores@sebi.gov.in with a request to change the same.
+
+Q: 6. Where can the entities access the complaints lodged against them on SCORES?
+A: Entities can login to www.scores.sebi.gov.in. The landing page of SCORES is same for the complainants, entities and the Designated Bodies.Click on Sign in/ Sign up. Entities should sign in by entering the user ID.The user ID will be verified through OTP verification of the registered e-mail ID of the entity.Enter the passwordEntities can access their ‘Entity Dashboard’ in which all the complaints lodged against the entity can be accessed.
+
+Q: 7. What are the different buckets provided in the ‘Entity Dashboard’?
+A: LabelMeaningPending Auto Assigned ComplaintsThe complaints lodged on SCORES are automatically assigned to the concerned Entities. All such complaints are available in this bucket. Entities are required to submit ATR to the complainant within 21 Calendar days.Pending First level Review complaintsFirst Level review complaints forwarded by the Designated Bodies to resubmit the ATR. First level review complaints here include:a.   In case complainant is not satisfied with the ATR submitted by the entity and has sought review of the resolution provided by entity (or)b.    Entity fails to submit the ATR within 21 calendar days.Pending SEBI Review complaintsSecond Level review complaints forwarded by SEBI to resubmit the ATR. Second level review complaints here include:a.   In case complainant is not satisfied with the ATR submitted by the Designated Body for first level review and has sought review of the resolution provided by the designated body (or)b.   Designated Body fails to submit the (ATR) within 10 calendar days for first level review.CPGRAMS complaintsComplaints received through Centralized Public Grievance Redress and Monitoring System (CPGRAMS) of Department of Administrative Reforms and Public Grievances. The ATR submitted in these complaints will be routed to SEBI.CPGRAMS AppealsAppeals against the closure of the complaints received through CPGRAMS by SEBI and forwarded by SEBI/ Designated Body for providing revised ATR.ReportsEntities can generate their customized reports.My ProfileRegistration details of the Entity.
+
+Q: 8. What is the timeline within which entities are required to submit ATR to the complainant?
+A: Entities are mandated to submit the ATR to the complainant within 21 calendar days of receipt of complaint on SCORES. The timelines can be monitored from the dashboard. The dashboard also displays ‘Days Remaining’ for first level review.
+
+Q: 9. What to do if the complaint lodged does not pertain to the ‘Entity’?
+A: The Entity can request the concerned Designated Body, if available to transfer the complaint to the appropriate entity. Alternatively, the Entity can provide ATR to the complainant advising the complainant to lodge the complainant against appropriate entity.
+
+Q: 10. Can Entity seek clarification from the complainant?
+A: It is possible that the Entity may require clarification from the complainant in order to proceed with redressal of the complainant. In such cases, entity can seek clarification from the complainant through SCORES by clicking on ‘Seek Clarification’ in the action history of the complaint. Kindly note that complainant will also receive e-mail, SMS notifications on the registered e-mail ID and registered Mobile Number, whenever Entity seeks clarification. Hence, entities are not required to send e-mail to the complainant separately.
+
+Q: 11. What will happen if Entity fails to submit the Action Taken Report to the complainant within 21 Calendar Days?
+A: The complaint will be treated as failure on part of the entity to redress the grievance within the stipulated time and will be automatically escalated to the first level review by the Designated Body or SEBI (in cases where there is no Designated Body).
+
+Q: 12. Will the complaint be shown as pending despite submitting the Action Taken Report to the complainant?
+A: The complaint will be kept pending for period of 15 calendar days. However, the status of the complaint will be shown as ‘Awaiting Review’. The reports will show that the complaint is pending with the complainant ‘Awaiting Review’ and not pending with the Entity.
+
+Q: 13. Can Designated Body forward the complaint to Entity or/and seek clarification?
+A: Yes. In case the complainant has sought first level review, the Designated Body, wherever required, can forward the complaint to the Entity for providing revised ATR. Further, in case the revised ATR provided by Entity to the Designated Body is not satisfactory, the Designated Body can also seek clarification from the Entity.
+
+Q: 14. Can SEBI forward the complaint to Entity or/and Seek Clarification?
+A: In case the complainant sought second level review, the SEBI Dealing Officer, wherever required, can forward the complaint to the Entity for providing revised ATR. Further, in case the revised ATR provided by Entity to the SEBI Dealing Officer is not satisfactory, the SEBI Dealing Officer can also seek clarification from the Entity.
+
+Q: 15. Can Entity seek clarification from the complainant at any of the review stage?
+A: Yes, entity can seek clarification from the complainant through SCORES by clicking on ‘Seek Clarification’ in the action history of the complaint.
+
+Q: 16. When are SCORES complaint disposed of?
+A: A SCORES complaint will be disposed only under the below mentioned scenariosComplainant is satisfied with the resolution provided by the concerned Entity or the Designated Body (at first level review) and does not choose to review the complaint within the 15 calendar days’ period from the date of receipt of ATR from the concerned Entity or the Designated Body in case of first level review.SEBI Dealing Officer disposes the complaint post second level review on receipt of satisfactory ATR from concerned entity or/and Designated body (or)where complainant raises issues which require adjudication on any third party rights, on questions of law or fact or which is in the nature of a lis between parties.Complainants opts for Online Dispute Resolution mechanism on smartodr.co.in or other appropriate civil remedies.
+
+Q: 17. What to do if the subject matter of complaint is pending on Online Dispute Resolution mechanism or concluded through Online Dispute Resolution mechanism?
+A: As per SEBI circular with ref. no. dated SEBI/HO/OIAE/IGRD/CIR/P/2023/156 September 20, 2023, in case the complainant opts for Online Dispute Resolution mechanism or other appropriate civil remedies while the complaint is pending on SCORES, the complaint shall be treated as disposed of on SCORES. Accordingly, Entities can submit ATR to the complainant indicating that the matter is pending on smartodr.co.in. Similar approach may be maintained for matters concluded through Online Dispute Resolution mechanism.

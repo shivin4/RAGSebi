@@ -1,0 +1,68 @@
+Q: 1. Is it necessary for all Designated Bodies to take SCORES authentication?
+A: Yes
+
+Q: 2. How to get SCORES Authentication?
+A: The procedure for obtaining SCORES Authentication is detailed in SEBI circular with reference no. SEBI/HO/OIAE/IGRD/CIR/P/2023/156 dated September 20, 2023. Accordingly, designated bodies are required to submit the registration form provided in Schedule IV of the said circular.
+
+Q: 3. What details will the Designated Bodies receive upon getting SCORES Authentication?
+A: Designated Bodies will receive user ID and password to login into SCORES on the e-mail ID registered with SEBI.
+
+Q: 4. Can the Designated Body update their details in SCORES?
+A: Yes, the SCORES system enables the Designated Body to update on their own certain information such as address, name/details of the nodal officer. Such information should be updated by the Designated Body immediately when warranted. However, name and SCORES details (i.e. e-mail ID) cannot be updated by the Designated Bodies themselves. To update these fields, the entities may send an e-mail to scores@sebi.gov.in along with a revised Schedule-IV with a request to change the same.Therefore, Designated Bodies may provide generic e-mail ID for taking SCORES authentication
+
+Q: 5. Where can the Designated Bodies access the complaints lodged against them on SCORES?
+A: Entities can login to www.scores.sebi.gov.in. The landing page of SCORES is same for the complainants, entities and the Designated Bodies.Click on Sign in/ Sign up. Designated Bodies should sign in by entering the user IDThe user ID will be verified through OTP verification of the registered e-mail ID of the Designated Body.Enter the passwordDesignated Bodies can access their ‘Designated Body Dashboard’ in which all the complaints can be accessed.
+
+Q: 6. What are the different buckets provided in the ‘Designated Body Dashboard’?
+A: LabelMeaningTotal Pending ComplaintsAll the complaints can be viewed in this dashboard.Pending Complaints for MonitoringComplaints that are auto assigned to the concerned entities. The role of Designated Body is to monitor timely submission of ATR by the concerned Entity.Pending First Level Review complaintsFirst level review complaints include:a.   In case complainant is not satisfied with the ATR submitted by the entity and has sought review of the resolution provided by entity (or);b.    Entity fails to submit the ATR within 21 calendar days.Pending SEBI Review ComplaintsSecond Level review complaints forwarded by SEBI to resubmit the ATR through SCORES. Second level review complaints here include:a.   In case complainant is not satisfied with the ATR submitted by the Designated Body for first level review and has sought review of the resolution provided by the designated body (or)b.   Designated Body fails to submit the ATR within 10 calendar days for first level review.CPGRAMS complaintsComplaints received through Centralized Public Grievance Redress and Monitoring System (CPGRAMS) of Department of Administrative Reforms and Public GrievancesThe complaints are automatically routed to the concerned entity. Designated Bodies to ensure that the entities submit ATR within 21 calendar days. The ATR submitted by entity in these complaints will be routed to SEBI.In case the entity fails to submit the ATR within 21 Calendar Days, the complaint will be auto-escalated to the Designated Bodies. The Action Taken Report submitted by Designated Body in these complaints will be routed to SEBI.CPGRAMS appealsAppeals against the closure of the complaints received through CPGRAMS by SEBI and forwarded by SEBI for providing revised ATR.ReportsDesignated Body can generate their customized reports.My profileRegistration details of the Designated Body.
+
+Q: 7. What is the role of Designated Body in monitoring the complaints?
+A: Entities are mandated to submit the ATR to the complainant within 21 Calendar days for complaints auto-assigned to the entity. The timelines can be monitored from the dashboard. The dashboard also displays ‘Days Remaining’ for first level review. Designated Bodies need to ensure that the ATRs are submitted by the entities within 21 calendar days.
+
+Q: 8. Can Designated Bodies send reminder to the Entities through SCORES?
+A: An automatic reminder system is inbuilt in the system. The concerned entity will receive automatic reminder on 10th and 15th day of receipt of complaint to expedite redressal of the complaint.
+
+Q: 9. What to do if the complaint lodged does not pertain to the ‘Entity’?
+A: The Designated Body can transfer the complaint to other entity on request of the concerned entity and/or if found, while monitoring the complaint, that the complaint pertains to other entity.
+
+Q: 10. Can Designated Body transfer the complaint to other Designated Body within the same category during the initial 21 Calendar Days?
+A: Yes. This provision is applicable in case multiple Designated Bodies are available for a particular category and can be exercised by clicking on ‘Transfer to other Designated Body’ below the Action History of the complaint. For Example: NSE can transfer the complaint to BSE in the capacity of Designated Body. The Entity against which the complaint was lodged will remain the same.
+
+Q: 11. Can Designated Body transfer the complaint to other Designated Body of other category during the initial 21 Calendar Days?
+A: Yes. This provision can be exercised by clicking on ‘Transfer to Other Category’ below the Action History of the complaint. The Entity against which the complaint was lodged will be changed in this case.
+
+Q: 12. Can Designated Body seek clarification from the complainant for first level review complaint?
+A: It is possible that the Designated Body may require clarification from the complainant in order to proceed with redressal of the first level review complaint. In such cases, Designated Body can seek clarification from the complainant through SCORES by clicking on ‘Seek Clarification’ in the action history of the complaint. Kindly note that complainant will also receive e-mail, SMS notifications on the registered e-mail ID and registered mobile umber, whenever Designated Body seeks clarification.
+
+Q: 13. What is the timeline within which Designated Bodies require to submit ATR to the first level review complainant?
+A: Designated Bodies are mandated to submit the ATR to the complainant within 10 Calendar days. The timelines can be monitored from the dashboard. The dashboard also displays ‘Days Remaining’ for SEBI level review.
+
+Q: 14. What will happen if Designated Body fails to submit the ATR to the complainant within 10 Calendar Days for first level review?
+A: The complaint will be treated as failure on part of the Designated Body to redress the grievance within the stipulated time and will be automatically escalated to the Second level review by SEBI.
+
+Q: 15. Will the complaint be shown as pending despite submitting the ATR to the complainant?
+A: The complaint will be kept pending for period of 15 calendar days. However, the status of the complaint will be shown as ‘Awaiting Review’. The reports will show that the complaint is pending with the complainant ‘Awaiting Review’ and not pending with the Designated Body.
+
+Q: 16. Can Designated Body forward the complaint to Entity or/and seek clarification?
+A: In case the complainant has sought first level review, the Designated Body, wherever required, can forward the complaint to the Entity for providing revised ATR. Further, in case the revised ATR provided by Entity to the Designated Body is not satisfactory, the Designated Body can also seek clarification from the Entity.
+
+Q: 17. Can SEBI forward the complaint to Designated Body or/and Seek Clarification?
+A: In case the complainant has sought second level review, the SEBI Dealing Officer, wherever required, can forward the complaint to the Designated Body for providing revised ATR. Further, in case the revised ATR provided by Designated Body to the SEBI Dealing Officer is not satisfactory, the SEBI Dealing Officer can also seek clarification from the Designated Body.
+
+Q: 18. Can Designated Body seek clarification from the complainant at Second Level Review stage?
+A: Yes, Designated Body can seek clarification from the complainant through SCORES by clicking on ‘Seek Clarification’ in the action history of the complaint.
+
+Q: 19. When are SCORES complaint disposed of?
+A: A SCORES complaint will be disposed only under the below mentioned scenarios:Complainant is satisfied with the resolution provided by the concerned Entity or the Designated Body (at first level review).Complainant does not choose to review the complaint within the 15 calendar days’ period from the date of receipt of ATR from the concerned Entity or the Designated Body in case of review.SEBI Dealing Officer disposes of the complaint post second level review on receipt of satisfactory ATR from concerned entity or/and Designated body (or) in cases where complainant raises issues, which require adjudication on any third party rights, on questions of law or fact or which is in the nature of a lis between parties.Complainant opts for Online Dispute Resolution mechanism on smartodr.co.in or other appropriate civil remedies.
+
+Q: 20. What to do if the subject matter of complaint is pending on Online Dispute Resolution mechanism or concluded through Online Dispute Resolution mechanism (ODR)?
+A: As per SEBI circular with ref. no. dated SEBI/HO/OIAE/IGRD/CIR/P/2023/156 September 20, 2023, in case the complainant opts for Online Dispute Resolution mechanism or other appropriate civil remedies while the complaint is pending on SCORES, the complaint shall be treated as disposed of on SCORES. Accordingly, Designated Bodies can submit ATR to the complainant indicating that the matter is pending on smartodr.co.in. Similar approach may be maintained for matters concluded through ODR mechanism.
+
+Q: 21. What is a Sub-User?
+A: Designated Bodies can create Sub-Users for administrative convenience in redressing the complaints. Sub-users can be created by selecting- ‘create sub user’ and entering the details. Generic E-mail ID may be provided while creating sub-user as e-mail communications like OTP, reminders etc. can be sent to the sub-users.
+
+Q: 22. How can Designated Body set routing for the Sub-User?
+A: The Designated Body can set routing to the Sub-User created as per FAQ no. 21 by clicking on ‘Sub User Routing’. The routing can be set based on State, Name of the Entity and Alphabetical Sequence.
+
+Q: 23. Can Designated Body disable a Sub-User from submitting the final ATR to the complainant directly?
+A: Yes. The sub-user can be disabled from submitting final ATR to complainant directly by clicking on ‘No’ while creating the sub-user.
