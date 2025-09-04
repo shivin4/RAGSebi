@@ -7,6 +7,10 @@ urllib3>=2.2.2
 llama-parse>=0.5.0
 python-dotenv>=1.0.0
 
+# Web Application Dependencies
+flask>=2.3.0
+flask-cors>=4.0.0
+
 # RAG Pipeline Dependencies (Open Source)
 langchain>=0.1.0
 langchain-community>=0.0.20
