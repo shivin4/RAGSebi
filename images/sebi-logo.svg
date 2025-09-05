@@ -1,0 +1,27 @@
+<svg width="120" height="50" viewBox="0 0 120 50" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sebiBlue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e40af;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e3a8a;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="sebiOrange" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f97316;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ea580c;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Modern SEBI logo background -->
+  <rect x="2" y="5" width="116" height="40" rx="6" ry="6" fill="url(#sebiBlue)"/>
+  
+  <!-- SEBI text with modern styling -->
+  <text x="60" y="32" font-family="Arial Black, Arial, sans-serif" font-size="20" font-weight="900" 
+        text-anchor="middle" fill="white" letter-spacing="3px">SEBI</text>
+  
+  <!-- Modern decorative elements -->
+  <rect x="15" y="15" width="8" height="2" fill="url(#sebiOrange)" rx="1" opacity="0.9"/>
+  <rect x="97" y="33" width="8" height="2" fill="url(#sebiOrange)" rx="1" opacity="0.9"/>
+  
+  <!-- Accent line under text -->
+  <rect x="35" y="38" width="50" height="1.5" fill="url(#sebiOrange)" rx="0.75" opacity="0.8"/>
+</svg>

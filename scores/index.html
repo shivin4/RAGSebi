@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SEBI SCORES - Complaint Portal</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="header-content">
+            <div class="logo-section">
+                <img src="../images/sebi-logo.png" alt="SEBI Logo" class="sebi-logo">
+                <div class="header-text">
+                    <h1>Securities and Exchange Board of India</h1>
+                    <p>SCORES - SEBI Complaint Redressal System</p>
+                </div>
+            </div>
+            <nav class="nav-menu">
+                <a href="http://127.0.0.1:5000/" class="nav-link">SEBI</a>
+                <a href="#complaints" class="nav-link active">SCORES</a>
+                <a href="#help" class="nav-link">Help</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <!-- Hero Section -->
+        <section class="hero">
+            <div class="hero-content">
+                <h2>Welcome to SEBI SCORES</h2>
+                <p>SEBI Complaint Redressal System - Online complaint registration and tracking portal</p>
+                <div class="hero-stats">
+                    <div class="stat">
+                        <span class="stat-number">50,000+</span>
+                        <span class="stat-label">Complaints Resolved</span>
+                    </div>
+                    <div class="stat">
+                        <span class="stat-number">95%</span>
+                        <span class="stat-label">Resolution Rate</span>
+                    </div>
+                    <div class="stat">
+                        <span class="stat-number">21 Days</span>
+                        <span class="stat-label">Average Resolution Time</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Complaint Portal Section -->
+        <section id="complaints" class="section">
+            <div class="container">
+                <h2 class="section-title">SCORES Complaint Portal</h2>
+
+                <!-- Step 1: Registration -->
+                <div class="workflow-step">
+                    <div class="step-header">
+                        <span class="step-number">1</span>
+                        <h3>Register on SCORES Portal</h3>
+                    </div>
+                    <div class="step-content">
+                        <div class="registration-info">
+                            <p>First-time users need to register on the SCORES portal to file complaints against market intermediaries.</p>
+                            <div class="info-grid">
+                                <div class="info-card">
+                                    <i class="fas fa-user-plus"></i>
+                                    <h4>One-Time Registration</h4>
+                                    <p>Simple registration process with basic details</p>
+                                </div>
+                                <div class="info-card">
+                                    <i class="fas fa-id-card"></i>
+                                    <h4>PAN Required</h4>
+                                    <p>Valid PAN card is mandatory for registration</p>
+                                </div>
+                                <div class="info-card">
+                                    <i class="fas fa-shield-alt"></i>
+                                    <h4>Secure Access</h4>
+                                    <p>Auto-generated login credentials for security</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Step 2: Lodge Complaint -->
+                <div class="workflow-step">
+                    <div class="step-header">
+                        <span class="step-number">2</span>
+                        <h3>Lodge Your Complaint</h3>
+                    </div>
+                    <div class="step-content">
+                        <div class="complaint-categories">
+                            <h4>Complaint Categories</h4>
+                            <div class="category-grid">
+                                <div class="category-card">
+                                    <i class="fas fa-chart-line"></i>
+                                    <h5>Stock Brokers</h5>
+                                    <p>Issues with stock trading, margins, settlements</p>
+                                </div>
+                                <div class="category-card">
+                                    <i class="fas fa-coins"></i>
+                                    <h5>Mutual Funds</h5>
+                                    <p>Investment, redemption, and NAV related issues</p>
+                                </div>
+                                <div class="category-card">
+                                    <i class="fas fa-building"></i>
+                                    <h5>Listed Companies</h5>
+                                    <p>Corporate governance, disclosures, IPO issues</p>
+                                </div>
+                                <div class="category-card">
+                                    <i class="fas fa-university"></i>
+                                    <h5>Depositories</h5>
+                                    <p>Demat account, transfer, and holding issues</p>
+                                </div>
+                                <div class="category-card">
+                                    <i class="fas fa-briefcase"></i>
+                                    <h5>Portfolio Managers</h5>
+                                    <p>Investment management and performance issues</p>
+                                </div>
+                                <div class="category-card">
+                                    <i class="fas fa-handshake"></i>
+                                    <h5>Investment Advisors</h5>
+                                    <p>Advisory services and recommendation issues</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="file-requirements">
+                            <h4>Document Upload Guidelines</h4>
+                            <ul class="requirements-list">
+                                <li><i class="fas fa-check"></i> Maximum 10 files per complaint</li>
+                                <li><i class="fas fa-check"></i> Each file should be under 20MB</li>
+                                <li><i class="fas fa-check"></i> Supported formats: PDF, DOC, DOCX, XLS, XLSX, JPG, PNG</li>
+                                <li><i class="fas fa-check"></i> Include all relevant documents as evidence</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Step 3: Track & Resolution -->
+                <div class="workflow-step">
+                    <div class="step-header">
+                        <span class="step-number">3</span>
+                        <h3>Track Complaint & Resolution</h3>
+                    </div>
+                    <div class="step-content">
+                        <div class="tracking-timeline">
+                            <div class="timeline-item">
+                                <div class="timeline-marker"></div>
+                                <div class="timeline-content">
+                                    <h5>Complaint Lodged</h5>
+                                    <p>Complaint successfully submitted and assigned unique ID</p>
+                                    <span class="timeline-date">Day 0</span>
+                                </div>
+                            </div>
+                            <div class="timeline-item">
+                                <div class="timeline-marker"></div>
+                                <div class="timeline-content">
+                                    <h5>Acknowledgment to Complainant</h5>
+                                    <p>Complaint forwarded to entity for resolution</p>
+                                    <span class="timeline-date">Within 7 days</span>
+                                </div>
+                            </div>
+                            <div class="timeline-item">
+                                <div class="timeline-marker"></div>
+                                <div class="timeline-content">
+                                    <h5>Entity Response (ATR)</h5>
+                                    <p>Action Taken Report submitted by entity</p>
+                                    <span class="timeline-date">Within 21 days</span>
+                                </div>
+                            </div>
+                            <div class="timeline-item">
+                                <div class="timeline-marker"></div>
+                                <div class="timeline-content">
+                                    <h5>Resolution & Closure</h5>
+                                    <p>Complaint resolved or escalated if unsatisfied</p>
+                                    <span class="timeline-date">Within 30 days</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="escalation-info">
+                            <h4>Escalation Process</h4>
+                            <div class="escalation-levels">
+                                <div class="escalation-card level-1">
+                                    <span class="level-badge">Level 1</span>
+                                    <h5>Entity Resolution</h5>
+                                    <p>Direct resolution with market intermediary</p>
+                                </div>
+                                <div class="escalation-arrow">→</div>
+                                <div class="escalation-card level-2">
+                                    <span class="level-badge">Level 2</span>
+                                    <h5>SEBI Review</h5>
+                                    <p>SEBI intervention for unresolved complaints</p>
+                                </div>
+                                <div class="escalation-arrow">→</div>
+                                <div class="escalation-card level-3">
+                                    <span class="level-badge">Level 3</span>
+                                    <h5>SEBI Officer</h5>
+                                    <p>Direct assignment to SEBI officer</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Quick Actions -->
+                <div class="quick-actions">
+                    <h3>Quick Actions</h3>
+                    <div class="action-buttons">
+                        <button class="btn-primary large-btn" onclick="startRegistration()">
+                            <i class="fas fa-user-plus"></i>
+                            New User Registration
+                        </button>
+                        <button class="btn-primary large-btn" onclick="startComplaint()">
+                            <i class="fas fa-file-alt"></i>
+                            Lodge New Complaint
+                        </button>
+                        <button class="btn-primary large-btn" onclick="trackComplaint()">
+                            <i class="fas fa-search"></i>
+                            Track Existing Complaint
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Help Section -->
+        <section id="help" class="section help-section">
+            <div class="container">
+                <h2 class="section-title">Need Help?</h2>
+                <div class="help-grid">
+                    <div class="help-card">
+                        <i class="fas fa-phone"></i>
+                        <h4>Helpline</h4>
+                        <p>Call: 022-26449000/40 (9:30 AM to 5:30 PM)</p>
+                    </div>
+                    <div class="help-card">
+                        <i class="fas fa-envelope"></i>
+                        <h4>Email Support</h4>
+                        <p>scores@sebi.gov.in</p>
+                    </div>
+                    <div class="help-card">
+                        <i class="fas fa-robot"></i>
+                        <h4>AI Assistant</h4>
+                        <p>Use our chatbot for instant help with SEBI regulations</p>
+                    </div>
+                    <div class="help-card">
+                        <i class="fas fa-book"></i>
+                        <h4>FAQs</h4>
+                        <p>Visit SEBI website for comprehensive FAQs</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Floating Chatbot Widget -->
+    <div id="chatbot" class="chatbot-widget">
+        <div class="chatbot-header">
+            <div class="chatbot-title">
+                <i class="fas fa-robot"></i>
+                <span>SEBI Assistant</span>
+            </div>
+            <button class="chatbot-minimize" id="chatbot-toggle">
+                <i class="fas fa-minus"></i>
+            </button>
+        </div>
+        
+        <div class="chatbot-content">
+            <div class="chat-messages" id="chat-messages"></div>
+            
+            <div class="file-upload-area" id="file-upload-area" style="display: none;">
+                <div class="upload-header">
+                    <span>Upload Documents (Max 10 files, 20MB each)</span>
+                    <button class="close-upload" onclick="closeFileUpload()">×</button>
+                </div>
+                <div class="upload-zone" id="upload-zone">
+                    <i class="fas fa-cloud-upload-alt"></i>
+                    <p>Drag & drop files here or click to browse</p>
+                    <input type="file" id="file-input" multiple accept=".pdf,.doc,.docx,.xls,.xlsx,.jpg,.jpeg,.png,.txt">
+                </div>
+                <div class="uploaded-files" id="uploaded-files"></div>
+            </div>
+            
+            <div class="quick-actions-buttons" id="quick-actions">
+                <button class="quick-btn" onclick="quickAction('register')">
+                    <i class="fas fa-user-plus"></i> Register
+                </button>
+                <button class="quick-btn" onclick="quickAction('lodge')">
+                    <i class="fas fa-file-alt"></i> Lodge Complaint
+                </button>
+                <button class="quick-btn" onclick="quickAction('track')">
+                    <i class="fas fa-search"></i> Track
+                </button>
+                <button class="quick-btn" onclick="quickAction('escalate')">
+                    <i class="fas fa-arrow-up"></i> Escalate
+                </button>
+                <button class="quick-btn" onclick="quickAction('close')">
+                    <i class="fas fa-check"></i> Close
+                </button>
+            </div>
+            
+            <div class="chat-input-area">
+                <div class="input-container">
+                    <input type="text" id="chat-input" placeholder="Type your message or ask about SEBI regulations...">
+                    <button class="file-btn" onclick="toggleFileUpload()" title="Upload Files">
+                        <i class="fas fa-paperclip"></i>
+                    </button>
+                    <button class="send-btn" id="send-button">
+                        <i class="fas fa-paper-plane"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>SEBI SCORES</h4>
+                    <p>Securities and Exchange Board of India<br>
+                    SEBI Complaint Redressal System</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="https://www.sebi.gov.in">SEBI Official Website</a></li>
+                        <li><a href="https://scores.gov.in">SCORES Portal</a></li>
+                        <li><a href="http://127.0.0.1:5000/">SEBI Portal</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Contact</h4>
+                    <p>Phone: 022-26449000/40<br>
+                    Email: scores@sebi.gov.in</p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 Securities and Exchange Board of India. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Hidden Forms for Workflows -->
+    <div id="modal-overlay" class="modal-overlay" style="display: none;">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 id="modal-title">Form</h3>
+                <button class="modal-close" onclick="closeModal()">×</button>
+            </div>
+            <div class="modal-body" id="modal-body">
+                <!-- Dynamic content will be inserted here -->
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

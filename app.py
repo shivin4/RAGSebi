@@ -10,7 +10,7 @@ import json
 import time
 import logging
 from datetime import datetime
-from flask import Flask, request, jsonify, render_template, send_from_directory
+from flask import Flask, request, jsonify, render_template, send_from_directory, redirect
 from flask_cors import CORS
 from dotenv import load_dotenv
 
@@ -94,6 +94,18 @@ def serve_js(filename):
     """Serve JavaScript files"""
     return send_from_directory('js', filename)
 
+@app.route('/images/<path:filename>')
+def serve_images(filename):
+    """Serve image files"""
+    return send_from_directory('images', filename)
+
+@app.route('/scores/<path:filename>')
+def serve_scores(filename):
+    """Redirect to SCORES app running on port 5001"""
+    if filename == 'index.html':
+        return redirect('http://127.0.0.1:5001/', code=302)
+    return redirect(f'http://127.0.0.1:5001/{filename}', code=302)
+
 @app.route('/api/health')
 def health_check():
     """Health check endpoint"""
@@ -134,7 +146,7 @@ def query_rag():
             'success': False,
             'error': 'RAG system not available',
             'message': 'The RAG system is currently unavailable. Please try again later.',
-            'fallback_response': get_fallback_response(request.json.get('question', ''))
+            'fallback_response': get_fallback_response(request.json.get('question', '') if request.json else '')
         }), 503
 
     try:
